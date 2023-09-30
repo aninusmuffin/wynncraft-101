@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.1.0 (2023-09-30)
+
+
+### ★ Features
+
+* **root:** Initialized repo with modpack and ci ([2c3c89a](https://github.com/Aninuscsalas/wynncraft-101/commit/2c3c89aedb67948c9245b8ec331c083c365a7368))
+
+
+### ⛭ Miscellaneous
+
+* **main:** release 0.1.0 ([d822604](https://github.com/Aninuscsalas/wynncraft-101/commit/d8226048949c8f9ffa37e7a9776ff49dba46c595))
+
 ## 0.1.0 (2023-09-27)
 
 ### ☀ Modpack Changes
@@ -19,5 +31,4 @@
 
 ### ⛭ Miscellaneous
 
-* **config:** Removed unneeded fancymenu configs 
-
+* **config:** Removed unneeded fancymenu configs
