@@ -1,5 +1,33 @@
 # Changelog
 
+## 1.0.0 (2024-02-13)
+
+
+### Features
+
+* Added Shader support ([83dadc0](https://github.com/Aninuscsalas/wynncraft-101/commit/83dadc0bd296d35f6aee814eb7ef718345b1909f))
+* **mods:** Added Borderless Mining ([ba0d99e](https://github.com/Aninuscsalas/wynncraft-101/commit/ba0d99ea8d0b948733358b8f2ceeae5bbd216fcd))
+* **mods:** Added Cloth Config ([ba0d99e](https://github.com/Aninuscsalas/wynncraft-101/commit/ba0d99ea8d0b948733358b8f2ceeae5bbd216fcd))
+* **mods:** Added fuy.gg ([ba0d99e](https://github.com/Aninuscsalas/wynncraft-101/commit/ba0d99ea8d0b948733358b8f2ceeae5bbd216fcd))
+* New Loading Screen ([83dadc0](https://github.com/Aninuscsalas/wynncraft-101/commit/83dadc0bd296d35f6aee814eb7ef718345b1909f))
+* Remove Forge support ([2a234de](https://github.com/Aninuscsalas/wynncraft-101/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+* **root:** Initialized repo with modpack and ci ([2c3c89a](https://github.com/Aninuscsalas/wynncraft-101/commit/2c3c89aedb67948c9245b8ec331c083c365a7368))
+
+
+### Bug Fixes
+
+* **config:** Fix Ok Boomer Crash ([2a234de](https://github.com/Aninuscsalas/wynncraft-101/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+* **config:** Set soundCategory_music to 0 ([2a234de](https://github.com/Aninuscsalas/wynncraft-101/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+* **modpack:** FIx no mods in the pack? ([45bdeb7](https://github.com/Aninuscsalas/wynncraft-101/commit/45bdeb781b4d5edd0fd77d4434536e71174b37a4))
+* **mods:** Fix Wynncraft Content book bug ([dace462](https://github.com/Aninuscsalas/wynncraft-101/commit/dace4624a07550a6d2676fda4395b30114f30a4f))
+* **mods:** Fixed fuy.gg incompatibility issues ([9bcb9b7](https://github.com/Aninuscsalas/wynncraft-101/commit/9bcb9b7b8a96d3fe0cbde2aee83d157c864ac7a4))
+
+
+### Miscellaneous Chores
+
+* **main:** release 0.1.0 ([d822604](https://github.com/Aninuscsalas/wynncraft-101/commit/d8226048949c8f9ffa37e7a9776ff49dba46c595))
+* **main:** release 1.0.0 ([2f50ef3](https://github.com/Aninuscsalas/wynncraft-101/commit/2f50ef3b4e31d0cd565bddf4255051ce145437f6))
+
 ## [1.0.3](https://github.com/Aninuscsalas/wynncraft-101/compare/quilt-v1.0.2...quilt-v1.0.3) (2024-02-13)
 
 
