@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.3.0 (2025-06-25)
+
+### ⚘ Modpack Updates
+
+### ★ Features
+
+* **voices-of-wynn:** Added Voices of Wynn for full voice acting in cutscenes
+
+* **mods:** Updated mods
+* **mods:** Updated to Wynntils 3.0.24
+* **minecraft:** Updated to 1.21.4
+
 
 ## 1.2.5 (2024-11-19)
 
