@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "42f25f683b8ec4248399ef8d30e9b74d7e97dbc5e384325e4e70325360d5ea02"
+hash = "2ba42ee9ede6030cd791362d260c901eac75cb4daed3c387b4f926b277f09247"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -54,7 +54,7 @@ hash = "d6ca61843ad84e0c0f93fca5ed2a6f6ee9a8aadf898ffd312ad5323263df0448"
 
 [[files]]
 file = "config/version.txt"
-hash = "436b30fb6aa3977eac50b70cafed915aaa0f6355ab1d73b591bec678bcfde67c"
+hash = "363a921a3409b977e99e614346401fcac4888ac322078dfcc152fc435bed56f3"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "857b67bf4ff436acdc8a9461b58ddbc02fa12cdd2c6727c3a19dec938f46c562"
+hash = "c171246e9496f4a42a984da40a24413d29f804077c1c93bf034532729d269bf9"
 metafile = true
 
 [[files]]
@@ -100,12 +100,12 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "2a7db66a35dbd734ddb22359ccdab583010e40f879a1da3493b8af4e4d22d397"
+hash = "e77ea5430e509bbebccb49d2df408e4cd20f6707105b88bda0578189cdfa7e8e"
 metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "4b257578b2973f4e99ae3192989f7ba4db19e9eca99ea396a1479c8a6cd9ca88"
+hash = "d5b02cdd8918d1e509bbedd2d7073544110a5985f6b94cbc799464324ee0d1ba"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5b6cadef65019131a6e7d362b81bb25871330db67ef6c6b1d552e1fbd975e3be"
+hash = "eec54c8310038eaf8625ace2ab01e8ca6b1ce68b0e6a051835cf2faf324478c6"
 metafile = true
 
 [[files]]
@@ -165,12 +165,12 @@ metafile = true
 
 [[files]]
 file = "mods/vow.pw.toml"
-hash = "1602779c55cb0504801008bb1b123bea8c8ad6970ea41cdd68423af6398e27b2"
+hash = "6a517abb2f5aaef8ef2500f18d5a80ad8365e5491decd02b3b701051899bd9c3"
 metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "da44aeb12b2be16395eb4a8904d39b492a998dc54fbda01bcabe0d2f4bf7719d"
+hash = "034c15e2a5196cb3d2361d1b204b8330d604a68f301cc18a3527a195ca5258ab"
 metafile = true
 
 [[files]]

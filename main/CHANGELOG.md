@@ -1,8 +1,14 @@
 # Changelog
 
-## 1.3.0 (2025-06-25)
+## 1.3.1 (2025-08-08)
 
 ### ⚘ Modpack Updates
+
+* **mods:** Updated mods
+* **mods:** Updated to Wynntils 3.2.0
+
+
+## 1.3.0 (2025-06-25)
 
 ### ★ Features
 
