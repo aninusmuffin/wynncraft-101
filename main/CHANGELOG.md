@@ -1,5 +1,13 @@
 # Changelog
 
+
+## 1.3.2 (2025-11-09)
+
+### ⚘ Modpack Updates
+
+* **mods:** Updated mods
+
+
 ## 1.3.1 (2025-08-08)
 
 ### ⚘ Modpack Updates
